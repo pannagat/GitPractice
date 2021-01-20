@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9481-FAC9
+
+ Directory of C:\Users\user1\Desktop\GitPractice
+
+01/20/2021  07:51 PM    <DIR>          .
+01/20/2021  07:51 PM    <DIR>          ..
+01/20/2021  07:51 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,070,921,728 bytes free
